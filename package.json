@@ -1,0 +1,36 @@
+{
+  "name": "onedionys-date-languange",
+  "version": "1.0.0",
+  "description": "One Dionys (Date Languange) - Package used to make it easier for developers to format dates.",
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onedionys/onedionys-date-languange.git"
+  },
+  "keywords": [
+    "onedionys",
+    "date-languange",
+    "format-date-id",
+    "format-date-en"
+  ],
+  "author": "One Dionys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onedionys/onedionys-date-languange/issues"
+  },
+  "homepage": "https://github.com/onedionys/onedionys-date-languange#readme",
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.3.0"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "lodash": "^4.17.21"
+  }
+}
