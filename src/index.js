@@ -1,6 +1,7 @@
 const fs = require('fs');
+const path = require('path');
 
-const langPath = './src/lang/';
+const langPath = path.join(__dirname, 'lang/');
 
 function formatDateLanguange(date, lang, is_cut = false) {
     const formatDate = new Date(date);
