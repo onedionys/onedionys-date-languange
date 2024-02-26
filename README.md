@@ -22,13 +22,14 @@
 #### Example Syntax
 
 ```javascript
-formatDateLanguange(date, lang)
+formatDateLanguange(date, lang, is_cut)
 ```
 
 #### Parameters
 
 * `date`: This is the date to be changed. Must contain the month name.
 * `lang`: The country type or format that will be used to change the date language.
+* `is_cut`: Choose the type of date you want, full or cut.
 
 #### Return Value
 
