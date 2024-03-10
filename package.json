@@ -1,6 +1,6 @@
 {
   "name": "onedionys-date-languange",
-  "version": "2.0.0",
+  "version": "2.5.0",
   "description": "One Dionys (Date Languange) - Package used to make it easier for developers to format dates.",
   "main": "src/index.js",
   "directories": {
@@ -31,6 +31,7 @@
   },
   "dependencies": {
     "jquery": "^3.7.1",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "rantea": "^1.1.4"
   }
 }

@@ -40,6 +40,7 @@ formatDateLanguange(date, lang, is_cut)
 * v1.0.0 : 26 February 2024
 * v1.1.0 : 02 March 2024
 * v2.0.0 : 02 March 2024
+* v2.5.0 : 10 March 2024
 
 ## 🧑 Author
 
