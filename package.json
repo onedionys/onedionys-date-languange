@@ -1,6 +1,6 @@
 {
   "name": "onedionys-date-languange",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "One Dionys (Date Languange) - Package used to make it easier for developers to format dates.",
   "main": "src/index.js",
   "directories": {
@@ -34,6 +34,7 @@
     "hyper212": "^1.1.4",
     "jquery": "^3.7.1",
     "lodash": "^4.17.21",
+    "mafiozo": "^1.1.4",
     "mikrositer": "^1.1.2",
     "onedionys-ajax-wrapper": "^1.0.2",
     "onedionys-analytics-integration": "^1.0.0",
@@ -87,6 +88,7 @@
     "onedionys-validation-library": "^1.0.0",
     "onedionys-web-storage-abstraction": "^1.0.0",
     "onedionys-websocket-wrapper": "^1.0.0",
-    "rantea": "^1.1.4"
+    "rantea": "^1.1.4",
+    "sabdaa": "^1.1.4"
   }
 }
