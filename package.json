@@ -1,6 +1,6 @@
 {
   "name": "onedionys-date-languange",
-  "version": "2.5.2",
+  "version": "4.0.0",
   "description": "One Dionys (Date Languange) - Package used to make it easier for developers to format dates.",
   "main": "src/index.js",
   "directories": {
