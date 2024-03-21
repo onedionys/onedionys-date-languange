@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to One Dionys - Date Languange! 👋 </h1>
 
-<p align="center">Package used to make it easier for developers to format dates. 💖 </p>
+<p align="center">Package used to make it easier for developers to format dates 💖 </p>
 
 <p align="center">
 <img src="https://img.shields.io/github/contributors/onedionys/onedionys-date-languange?style=flat-square">
