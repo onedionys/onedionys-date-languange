@@ -15,7 +15,7 @@
 ## 💾 Requirements
 
 * `Web Browser` - Can be used as an emulator to build applications. Example [Chrome, Firefox, Safari & Opera].
-* `Internet` - Because many use CDN and to make it easier to find solutions to all problems.
+* `Internet` - Because many use CDN and to make it easier to find solutions to all problem.
 
 ## 🎯 How To Use
 
